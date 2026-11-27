@@ -1,0 +1,18 @@
+name = "buthe_refute"
+defaultTargets = ["Refute", "JY", "Refute2016"]
+
+[[require]]
+name = "IEANTN"
+path = "../../../tao-work/IEANTN"
+
+[[lean_lib]]
+name = "Refute"
+roots = ["Refute"]
+
+[[lean_lib]]
+name = "JY"
+roots = ["JY"]
+
+[[lean_lib]]
+name = "Refute2016"
+roots = ["Refute2016"]

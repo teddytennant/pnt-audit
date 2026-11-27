@@ -1,0 +1,5 @@
+square at n = 3: a(n) = 6^2
+square at n = 6: a(n) = 13^2
+square at n = 4072: a(n) = 15735^2
+square at n = 111008771: a(n) = 622112686^2
+searched n <= 400000000, squares found: 4
